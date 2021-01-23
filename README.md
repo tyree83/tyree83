@@ -8,7 +8,7 @@
 &nbsp;<img src="images/bootstrap.png" alt="bs" width="50"/><br />&nbsp;<img src="images/sass.png" alt="sass" width="50"/>
 ### *MERN*
 
-  &nbsp;<img src="images/mongoose.jpg" alt="mongo" width="50"/>&nbsp;<img src="images/express.png" alt="express" width="50"/>&nbsp;;<img src="images/react.png" alt="reactjs" width="50"/>&nbsp;<img src="images/node.png" alt="nodejs" width="50"/>
+  &nbsp;<img src="images/mongoose.jpg" alt="mongo" width="50"/>&nbsp;<img src="images/express.png" alt="express" width="50"/>&nbsp;<img src="images/react.png" alt="reactjs" width="50"/>&nbsp;<img src="images/node.png" alt="nodejs" width="50"/>
 
 
 ### *Ruby on Rails*
